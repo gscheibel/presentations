@@ -1,0 +1,11 @@
+[.topic]
+== Un développeur ça:
+====
+[.incremental]
+* Ecrit du code !
+* Ecrit des tests
+* Crée de super features
+* Se plaint
+* *Ecrit de la documentation*
+
+====

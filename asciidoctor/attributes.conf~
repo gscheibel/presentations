@@ -1,0 +1,11 @@
+:imagesdir: images
+:source-highlighter: coderay
+:language: no-highlight
+:macros-on: subs="macros"
+:caption-off: caption=""
+:blank-title: title="", caption=""
+:dzslides-style: tomorrow
+:dzslides-transition: fade
+:dzslides-fonts: family=Yanone+Kaffeesatz:400,700,200,300
+:dzslides-highlight: asciidoctor
+:sourcedir: snippets/

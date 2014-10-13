@@ -1,0 +1,11 @@
+= **Asciidoctor** ##Why writing documentation should be a pain in my ass ?##
+include::attributes/{config}.conf[]
+:sourcedir: ../snippets/
+
+include::slides/aboutme.adoc[]
+include::slides/developerrole.adoc[]
+include::slides/documentationproblem.adoc[]
+include::slides/languageintegration.adoc[]
+include::slides/buildintegration.adoc[]
+include::slides/mavendockbook.adoc[]
+include::slides/why.adoc[]

@@ -1,0 +1,20 @@
+[.topic]
+== Et les outils de build ?
+
+[.incremental]
+====
+*Maven*
+[source,xml]
+----
+include::{sourcedir}//build/maven-plugin.xml[]
+----
+====
+
+[.incremental]
+====
+*Gradle*
+[source,groovy]
+----
+include::{sourcedir}/build/gradle.groovy[]
+----
+====

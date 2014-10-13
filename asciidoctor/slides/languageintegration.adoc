@@ -1,0 +1,20 @@
+[.topic]
+== On en fait quoi de tout ça ?
+====
+
+.Créer le rendu à partir de:
+[.pull-left]
+* Ruby
+* Java (asciidoctorj)
+* JavaScript (asciidoctor.js)
+
+.Vers:
+[.pull-right]
+* HTML5
+* Docbook
+* EPUB3
+* PDF
+* deckjs
+* dzslides
+
+====
