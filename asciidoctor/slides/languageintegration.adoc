@@ -1,6 +1,5 @@
 [.topic]
 == On en fait quoi de tout ça ?
-====
 
 .Créer le rendu à partir de:
 [.pull-left]
@@ -16,5 +15,3 @@
 * PDF
 * deckjs
 * dzslides
-
-====

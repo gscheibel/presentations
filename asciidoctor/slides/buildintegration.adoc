@@ -1,17 +1,13 @@
-[.topic]
 == Et les outils de build ?
-
-[.incremental]
 ====
+[%step]
 *Maven*
 [source,xml]
 ----
 include::{sourcedir}//build/maven-plugin.xml[]
 ----
-====
 
-[.incremental]
-====
+[%step]
 *Gradle*
 [source,groovy]
 ----

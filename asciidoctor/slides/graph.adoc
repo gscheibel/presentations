@@ -1,8 +1,1 @@
-[.topic]
 == Et mes schémas alors ?
-
-====
-[.increment]
-
-
-====

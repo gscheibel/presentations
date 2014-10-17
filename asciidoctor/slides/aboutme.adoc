@@ -1,20 +1,10 @@
-[.topic]
 == Guillaume Scheibel
+====
 Email: guillaume.scheibel@gmail.com
 
-[.incremental]
-====
-'Le jour:' +
 Software development engineer @ +Expedia+
 
-'Le reste du temps:' +
-Contributeur @ +Hibernate OGM+, +Infinispan+ +
-JUG Leader @ +ElassJUG+
-====
-
-[.incremental]
-====
-image:twitter.png[] https://twitter.com/g_scheibel
+image:twitter.png[] @g_scheibel
 
 image:blogger.png[] http://gscheibel.net
 

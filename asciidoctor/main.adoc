@@ -1,6 +1,12 @@
-= **Asciidoctor** ##Why writing documentation should be a pain in my ass ?##
-include::attributes/{config}.conf[]
+= Asciidoctor @ Soft-shake 2014
+:imagesdir: images
 :sourcedir: ../snippets/
+:source-highlighter: coderay
+
+== Asciidoctor
+
+Why writing documentation should be a pain in my ass ?
+
 
 include::slides/aboutme.adoc[]
 include::slides/developerrole.adoc[]
