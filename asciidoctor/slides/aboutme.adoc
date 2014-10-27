@@ -1,12 +1,11 @@
 == Guillaume Scheibel
 ====
-Email: guillaume.scheibel@gmail.com
 
 Software development engineer @ +Expedia+
 
-image:twitter.png[] @g_scheibel
+@g_scheibel
 
-image:blogger.png[] http://gscheibel.net
+http://gscheibel.net
 
-image:github.png[] https://github.com/gscheibel
+https://github.com/gscheibel
 ====

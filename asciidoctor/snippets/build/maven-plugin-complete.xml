@@ -11,12 +11,6 @@
       </execution>
 	</executions>
 	<configuration>
-      <sourceDocumentName>
-         ${project.basedir}/src/main/asciidoc/main.asciidoc
-      </sourceDocumentName>
-      <outputDirectory>
-         ${project.basedir}/target/docbook/en-US
-      </outputDirectory>
       <attributes>
 	      <sectanchors>true</sectanchors>
 	      <toclevels>3</toclevels>

@@ -1,4 +1,3 @@
-[.topic]
 == On définie le plugin Asciidoctor ...
 
 [source,xml]
@@ -6,7 +5,7 @@
 include::{sourcedir}/build/maven-plugin-complete.xml[]
 ----
 
-[.topic]
+
 == ... puis on le configure
 
 [source,xml]

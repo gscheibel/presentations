@@ -1,4 +1,5 @@
 #!/bin/bash
 
-asciidoctor -a config=reveal -T asciidoctor-reveal.js/templates/slim/ main.adoc
-#asciidoctor-pdf -a config=pdf main.adoc
+rm main.html
+asciidoctor -a config=reveal -r asciidoctor-diagram -T asciidoctor-reveal.js/templates/slim/ main.adoc
+asciidoctor-pdf -a config=pdf -r asciidoctor-diagram  main.adoc
