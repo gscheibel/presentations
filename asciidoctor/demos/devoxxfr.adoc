@@ -1,0 +1,18 @@
+= Devoxx FR: ce que je retiens
+
+== Le mercredi ?
+
+Entre autre un tools in action à propos d'Asciidoctor `Et si on arrêtait de se prendre la tête avec la documentation`
+
+== Le jeudi ?
+
+un BoF sur la collaboration (et *Asciidoctor*)
+
+== Le vendredi ?
+
+Une conférence intitulée `Write in AsciiDoc, Publish Everywhere!` it was in _Neuilly 252 AB_ at _14h05_
+
+
+.Liens à voir
+* Le site http://asciidoctor.org[Asciidoctor]
+* Les repos Github: https://github.com/asciidoctor/

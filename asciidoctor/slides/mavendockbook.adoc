@@ -5,7 +5,6 @@
 include::{sourcedir}/build/maven-plugin-complete.xml[]
 ----
 
-
 == ... puis on le configure
 
 [source,xml]

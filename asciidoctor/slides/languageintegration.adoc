@@ -2,15 +2,14 @@
 
 * Ruby
 * Java (asciidoctorj)
+* Groovy (asciidoctorj-groovy-dsl)
 * JavaScript (asciidoctor.js)
 
-== Les sorties
+== Write once, publish everywhere
 
-====
 * HTML5
 * Docbook
 * EPUB3
 * PDF
 * deckjs
 * dzslides
-====

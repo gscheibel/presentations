@@ -1,0 +1,15 @@
+= Hello SoftShake
+
+After the success of the previous editions, Softshake is back for the 4rd edition. Softshake 2014 will take place on thursday 23th and friday 24th octobre, in Geneva, Switzerland.
+The conference will be hosted at Haute Ecole du Paysage, d'Ingénierie et d'Architecture de Genève
+
+.Facts
+* 2 days
+* ~100 sessions
+* ~10 main topics
+* Over 80 speakers
+* Sessions in French and English
+
+== Convince my boss
+
+We have prepared a document that may help you http://bit.ly/sos14convince[convince your boss to send you to softshake]

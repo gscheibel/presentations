@@ -1,6 +1,5 @@
 == Travailler plus simplement
-====
+
 Eviter de perdre du temps
 
 Se concentrer sur l'essentiel
-====

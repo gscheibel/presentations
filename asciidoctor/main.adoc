@@ -1,4 +1,4 @@
-= Asciidoctor @ Soft-shake 2014
+= Asciidoctor @ DevoxxFR 2015
 :imagesdir: images
 :sourcedir: ../snippets/
 :source-highlighter: pygments
@@ -8,16 +8,24 @@ include::attributes/{config}.conf[]
 
 Why writing documentation should be a pain in my ass ?
 
-
 include::slides/aboutme.adoc[]
+
 include::slides/developerrole.adoc[]
+
 include::slides/documentationproblem.adoc[]
+
 include::slides/asciidoctor.adoc[]
-include::slides/why.adoc[]
-include::slides/languageintegration.adoc[]
+
 include::slides/graph.adoc[]
+
+include::slides/why.adoc[]
+
+include::slides/languageintegration.adoc[]
+
 include::slides/buildintegration.adoc[]
-include::slides/customization.adoc[]
+
 include::slides/trywithdocker.adoc[]
+
 include::slides/usecases.adoc[]
+
 include::slides/questions.adoc[]

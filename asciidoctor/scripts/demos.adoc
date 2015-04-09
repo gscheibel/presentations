@@ -1,0 +1,26 @@
+= Script file for Asciidoctor TiA @ DeovxxFR 2015
+
+Running confluence container
+
+[source, bash]
+docker run --detach --publish 8090:8090 cptactionhank/atlassian-confluence:latest
+
+Running docker-asciidoctor
+
+[source, bash]
+docker run -it -v /Users/gscheibel/labs/presentations/asciidoctor/demos:/documents/ asciidoctor/docker-asciidoctor
+
+Load demo files
+
+[source, bash]
+----
+asciidoctor devoxxfr.adoc
+asciidoctor-confluence  --host http://192.168.59.103:8090/ --spaceKey DEVOXX --title 'Asciidoctor is AWESOME' --username admin --password admin devoxxfr.adoc
+----
+
+Maven based demos
+[source]
+----
+~/labs/asciidoctor-maven-examples/asciidoctor-diagram-example
+~/labs/asciidoctor-maven-examples/asciidoc-to-html-example
+----

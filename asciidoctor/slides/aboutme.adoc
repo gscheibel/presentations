@@ -1,11 +1,11 @@
 == Guillaume Scheibel
-====
 
-Software development engineer @ +Expedia+
+Developer @ Expedia
 
-@g_scheibel
+Asciidoctor contributor
+
+JBoss Champion
 
 http://gscheibel.net
 
 https://github.com/gscheibel
-====

@@ -1,5 +1,5 @@
 == Et les outils de build ?
-====
+
 [%step]
 *Maven*
 [source,xml]
@@ -13,4 +13,3 @@ include::{sourcedir}//build/maven-plugin.xml[]
 ----
 include::{sourcedir}/build/gradle.groovy[]
 ----
-====
